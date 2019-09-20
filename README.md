@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/dano5342/ecommerce-miniproj.svg?branch=master)](https://travis-ci.org/dano5342/ecommerce-miniproj)
